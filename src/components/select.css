@@ -1,0 +1,6 @@
+@import "~antd/lib/radio/style/index.css";
+@import "~antd/lib/button/style/index.css";
+@import "~antd/lib/modal/style/index.css";
+.ant-modal-footer button:nth-of-type(1) {
+  display: none;
+}

@@ -1,0 +1,12 @@
+@import "~antd/lib/tabs/style/index.css";
+.title {
+  text-align: center;
+}
+.kemu_tab {
+  text-decoration: none;
+  display: inline-block;
+  padding: 14px 16px;
+}
+.ant-tabs-tab {
+  padding: 0 !important;
+}

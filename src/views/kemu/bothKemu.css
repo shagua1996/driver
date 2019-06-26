@@ -1,0 +1,15 @@
+@import "~antd/lib/spin/style/index.css";
+@import "~antd/lib/pagination/style/index.css";
+@import "~antd/lib/back-top/style/index.css";
+.loading {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.ant-pagination-options-quick-jumper input {
+  height: 100%;
+  box-sizing: border-box;
+}
